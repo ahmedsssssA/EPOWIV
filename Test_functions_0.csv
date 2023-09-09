@@ -1,0 +1,32 @@
+Python function name,Function,Lower Bound,Upper Bound,Dimension
+ACKLEY,Ackley,-32,32,10
+BUKIN,Bukin N. 6,-15,5,2
+CROSS_IN_TRAY,Cross-in-Tray,-10,10,2
+DROP_WAVE,Drop-Wave,-5.12,5.12,2
+EGGHOLDER,Eggholder,-512,512,2
+GRIEWANK,Griewank,-600,600,10
+HOLDER_TABLE,Holder Table,-10,10,2
+Langermann,Langermann,0,10,2
+Levy,Levy,-10,10,10
+Rastrigin,Rastrigin,-5.12,5.12,10
+schaffer2,Schaffer N. 2,-100,100,2
+schaffer4,Schaffer N. 4,-100,100,2
+Schwefel,Schwefel,-500,500,10
+Shubert,Shubert,-10,10,2
+Bohachevsky,Bohachevsky,-100,100,2
+Perm,Perm 0,-10,10,10
+Rotated_Hyper_Ellipsoid,Rotated Hyper-Ellipsoid,-65.536,65.536,10
+spheref,Sphere,-5.12,5.12,10
+sumpow,Sum of Different Powers,-1,1,10
+sumsqu,Sum Squares,-10,10,10
+booth,Booth,-10,10,2
+matya,Matyas,-10,10,2
+mccorm,McCormick,-1.5,4,2
+zakharov,Zakharov,-5,10,10
+camel3,Three-Hump Camel,-5,5,2
+camel6,Six-Hump Camel,-3,3,2
+dixonpr,Dixon-Price,-10,10,10
+rosen,Rosenbrock,-5,10,10
+dejong5,De Jong N. 5,-65.536,65.536,2
+easom,Easom,-100,100,2
+michal,Michalewicz,0,3.141592654,10
